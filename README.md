@@ -12,6 +12,7 @@ I enjoy building clean, responsive, and user-friendly web applications.
 
 
 ### 🛠 Tech Stack
+
 #### 💻 Programming Languages
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,php,c,cpp" height="45"/>
@@ -21,7 +22,6 @@ I enjoy building clean, responsive, and user-friendly web applications.
 <p>
   <img src="https://skillicons.dev/icons?i=laravel,bootstrap" height="45"/>
 </p>
-
 
 #### 🛠 Tools
 <p>
