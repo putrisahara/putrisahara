@@ -1,9 +1,11 @@
-## Hi there i'm Putri Sahara👋
-![Bnner ](img/github-header-banner.png)
+## Hi there, I'm Putri Sahara 👋
+![Banner ](img/github-header-banner.png)
 
 ### 👩‍💻 About Me
-I am an Informations Technology student at Universitas Sumatera Utara who is passionate about Web Development and Artificial Intelligence. 
+
+I am an Information Technology student at Universitas Sumatera Utara who is passionate about Web Development and Artificial Intelligence. 
 I enjoy building clean, responsive, and user-friendly web applications.
+
 
 ### 🌐 Connect With Me
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/putrii_shra)
@@ -26,7 +28,7 @@ I enjoy building clean, responsive, and user-friendly web applications.
   <img src="https://skillicons.dev/icons?i=vscode,figma,git,github" height="45"/>
 </p>
 
-#### Database
+#### 🗄 Database
 <p>
     <img src="https://skillicons.dev/icons?i=mysql" height="40"/>
 </p>
@@ -39,17 +41,10 @@ I enjoy building clean, responsive, and user-friendly web applications.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=putrisahara&show_icons=true&theme=radical&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=putrisahara&layout=compact&theme=radical&hide_border=true" height="170"/>
+  <img src="https://streak-stats.demolab.com/?user=putrisahara&theme=radical&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=putrisahara&theme=radical&hide_border=true"/>
-</p>
+#### My Motivation
 ✨ *“Consistency beats motivation.”*
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/putrisahara/putrisahara/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/putrisahara/putrisahara/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/putrisahara/putrisahara/output/pacman-contribution-graph.svg">
-</picture>
+
